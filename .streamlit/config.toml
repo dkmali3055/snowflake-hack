@@ -1,0 +1,35 @@
+[theme]
+base = "light"
+
+# Calm, friendly, Anthropic-inspired palette
+primaryColor = "#0B5FFF"                # Gentle blue accent
+backgroundColor = "#F9F9FB"             # Subtle off-white background
+secondaryBackgroundColor = "#FFFFFF"    # Clean widget/card base
+textColor = "#2C2C2E"                   # High-contrast charcoal text
+linkColor = "#005CE6"                   # Soft clickable blue
+
+# Code block theme (soft and accessible)
+codeBackgroundColor = "#F2F2F5"
+
+# Typography
+font = "sans-serif"
+codeFont = "monospace"
+headingFont = "sans-serif"
+
+# Rounded corners, light and human-friendly
+baseRadius = "0.5rem"
+borderColor = "#E0E0E5"
+
+# UI Borders
+showWidgetBorder = false
+showSidebarBorder = false
+
+# Typography scaling
+baseFontSize = 16
+
+# Optional: Custom font via Google Fonts (Open Sans)
+[[theme.fontFaces]]
+family = "Open Sans"
+url = "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap"
+weight = 400
+style = "normal"

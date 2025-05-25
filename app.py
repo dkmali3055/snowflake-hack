@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 # Custom CSS
-st.markdown("""
+st.html("""
 <style>
     .main-header {
         font-size: 3rem;
@@ -37,12 +37,20 @@ st.markdown("""
         font-weight: bold;
     }
     .metric-card {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: #FFFFFF;
         padding: 1rem;
         border-radius: 10px;
-        color: white;
+        color: #2C2C2E;
         text-align: center;
         margin: 0.5rem 0;
+    }
+    .matric-card-h3 {
+        font-size: 1rem;  
+        margin-block: 0.4rem;
+    }
+    .matric-card-p {
+        font-size: 1.5rem;  
+        margin-block: 0.4rem;
     }
     .culture-card {
         background: #f8f9fa;
@@ -86,7 +94,7 @@ st.markdown("""
         flex: 1;
     }
 </style>
-""", unsafe_allow_html=True)
+""")
 
 @st.cache_data
 def load_data():
@@ -188,7 +196,7 @@ def create_forecast(df, periods=365):
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header">🏛️ Cultural Tourism Dashboard - India</h1>', unsafe_allow_html=True)
+    st.html('<h1 class="main-header">🏛️ Cultural Tourism Dashboard - India</h1>')
     
     # Load data
     with st.spinner('Loading cultural tourism data from Snowflake...'):
@@ -241,39 +249,39 @@ def main():
     
     with col1:
         total_visitors = filtered_df['VISITORS'].sum()
-        st.markdown(f"""
+        st.html(f"""
         <div class="metric-card">
-            <h3>👥 Total Visitors</h3>
-            <h2>{total_visitors:,}</h2>
+            <h3 class="matric-card-h3">👥 Total Visitors</h3>
+            <p class="matric-card-p">{total_visitors:,}</p>
         </div>
-        """, unsafe_allow_html=True)
+        """)
     
     with col2:
         total_events = len(filtered_df)
-        st.markdown(f"""
+        st.html(f"""
         <div class="metric-card">
-            <h3>🎪 Total Events</h3>
-            <h2>{total_events:,}</h2>
+            <h3 class="matric-card-h3">🎪 Total Events</h3>
+            <p class="matric-card-p">{total_events:,}</p>
         </div>
-        """, unsafe_allow_html=True)
+        """)
     
     with col3:
         total_revenue = filtered_df['REVENUE_INR'].sum()
-        st.markdown(f"""
+        st.html(f"""
         <div class="metric-card">
-            <h3>💰 Revenue (₹)</h3>
-            <h2>{total_revenue/1000000:.1f}M</h2>
+            <h3 class="matric-card-h3">💰 Revenue (₹)</h3>
+            <p class="matric-card-p">{total_revenue/1000000:.1f}M</p>
         </div>
-        """, unsafe_allow_html=True)
+        """)
     
     with col4:
         employment = filtered_df['LOCAL_EMPLOYMENT'].sum()
-        st.markdown(f"""
+        st.html(f"""
         <div class="metric-card">
-            <h3>👷 Employment</h3>
-            <h2>{employment:,}</h2>
+            <h3 class="matric-card-h3">👷 Employment</h3>
+            <p class="matric-card-p">{employment:,}</p>
         </div>
-        """, unsafe_allow_html=True)
+        """)
     
     # Tabs
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Overview", "📅 Cultural Calendar", "🔮 Forecasting", "🗺️ Regional Analysis", "📈 Insights"])
@@ -499,47 +507,49 @@ def main():
         col1, col2 = st.columns(2)
         
         with col1:
-            st.markdown(f"""
+            st.html(f"""
             <div class="culture-card">
                 <h4>🏆 Peak Tourism</h4>
                 <p><strong>Month:</strong> {calendar.month_name[peak_month]}</p>
                 <p><strong>State:</strong> {peak_state}</p>
                 <p><strong>Event:</strong> {peak_event}</p>
             </div>
-            """, unsafe_allow_html=True)
-            
-            st.markdown(f"""
+            """)
+        
+        with col2:
+            st.html(f"""
             <div class="culture-card">
                 <h4>📊 Tourism Distribution</h4>
                 <p><strong>High Tourism Events:</strong> {len(filtered_df[filtered_df['TOURISM_LEVEL'] == 'High'])}</p>
                 <p><strong>Medium Tourism Events:</strong> {len(filtered_df[filtered_df['TOURISM_LEVEL'] == 'Medium'])}</p>
                 <p><strong>Low Tourism Events:</strong> {len(filtered_df[filtered_df['TOURISM_LEVEL'] == 'Low'])}</p>
             </div>
-            """, unsafe_allow_html=True)
+            """)
         
-        with col2:
-            st.markdown("""
-            <div class="culture-card">
-                <h4>💡 Recommendations</h4>
-                <ul>
-                    <li>Focus marketing efforts during off-peak months</li>
-                    <li>Promote lesser-known cultural events</li>
-                    <li>Develop cultural tourism packages</li>
-                    <li>Invest in infrastructure for high-potential regions</li>
-                    <li>Create cultural exchange programs</li>
-                </ul>
-            </div>
-            """, unsafe_allow_html=True)
+        # ''' Will be used if required '''
+        # with col2:
+        #     st.markdown("""
+        #     <div class="culture-card">
+        #         <h4>💡 Recommendations</h4>
+        #         <ul>
+        #             <li>Focus marketing efforts during off-peak months</li>
+        #             <li>Promote lesser-known cultural events</li>
+        #             <li>Develop cultural tourism packages</li>
+        #             <li>Invest in infrastructure for high-potential regions</li>
+        #             <li>Create cultural exchange programs</li>
+        #         </ul>
+        #     </div>
+        #     """, unsafe_allow_html=True)
             
-            st.markdown(f"""
-            <div class="culture-card">
-                <h4>🎯 Focus Areas</h4>
-                <p>States with untapped potential:</p>
-                <ul>
-                    {"".join([f"<li>{state} ({count} low-tourism events)</li>" for state, count in underperforming_states.head(3).items()])}
-                </ul>
-            </div>
-            """, unsafe_allow_html=True)
+        #     st.markdown(f"""
+        #     <div class="culture-card">
+        #         <h4>🎯 Focus Areas</h4>
+        #         <p>States with untapped potential:</p>
+        #         <ul>
+        #             {"".join([f"<li>{state} ({count} low-tourism events)</li>" for state, count in underperforming_states.head(3).items()])}
+        #         </ul>
+        #     </div>
+        #     """, unsafe_allow_html=True)
         
         # Economic impact
         st.markdown("### 💰 Economic Impact Analysis")
@@ -572,12 +582,12 @@ def main():
 
     # Footer
     st.markdown("---")
-    st.markdown("""
+    st.html("""
     <div style='text-align: center; color: #666;'>
         <p>🏛️ Cultural Tourism Dashboard | Promoting India's Rich Heritage | Data-Driven Tourism Insights</p>
         <p>Built with Streamlit • Prophet • Plotly</p>
     </div>
-    """, unsafe_allow_html=True)
+    """)
 
 if __name__ == "__main__":
     import calendar
