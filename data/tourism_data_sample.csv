@@ -1,0 +1,505 @@
+Date,State,Event,Art_Form,Visitors,Tourism_Level,Revenue_INR,Local_Employment,Month,Year,Quarter,Region
+2016-01-07,Odisha,Konark Dance Festival,Classical Dance,4860,High,6172200,531,1,2016,Q1,East
+2016-01-21,Nagaland,Hornbill Festival,Folk Dance,9734,High,10911814,839,1,2016,Q1,North East
+2016-01-11,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,9578,High,10411286,894,1,2016,Q1,North East
+2016-01-08,Rajasthan,Bundi Utsav,Traditional Music,4130,High,6859930,339,1,2016,Q1,West
+2016-01-24,Gujarat,Kankaria Carnival,Folk Dance,9611,High,13580343,850,1,2016,Q1,West
+2016-01-21,Gujarat,International Kite Festival,Handicrafts,5184,High,7563456,541,1,2016,Q1,West
+2016-01-12,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,6904,High,10770240,697,1,2016,Q1,Central
+2016-01-10,Madhya Pradesh,Jal Mahotsav,Handicrafts,6047,High,8919325,719,1,2016,Q1,Central
+2016-01-15,Haryana,Surajkund Mela,Handicrafts,4189,High,8197873,466,1,2016,Q1,North
+2016-01-19,Arunachal Pradesh,Orange Festival,Folk Dance,5899,High,9237834,703,1,2016,Q1,North East
+2016-01-25,Chandigarh,Rose Festival,Folk Dance,7202,High,10687768,751,1,2016,Q1,North
+2016-01-21,Bihar,Rajgir Mahotsav,Traditional Music,6888,High,8031408,554,1,2016,Q1,East
+2016-01-25,Chhattisgarh,Bastar Dussehra,Folk Dance,6363,High,6445719,714,1,2016,Q1,Central
+2016-01-09,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,6612,High,12542964,709,1,2016,Q1,North
+2016-02-15,Odisha,Konark Dance Festival,Classical Dance,5478,High,7817106,546,2,2016,Q1,East
+2016-02-15,Nagaland,Hornbill Festival,Folk Dance,4034,High,4860970,385,2,2016,Q1,North East
+2016-02-18,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7943,High,11016941,734,2,2016,Q1,North East
+2016-02-06,Rajasthan,Bundi Utsav,Traditional Music,6613,High,7307365,679,2,2016,Q1,West
+2016-02-18,Gujarat,Kankaria Carnival,Folk Dance,9675,High,11232675,926,2,2016,Q1,West
+2016-02-04,Gujarat,International Kite Festival,Handicrafts,8911,High,11316970,744,2,2016,Q1,West
+2016-02-23,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5275,High,8972775,490,2,2016,Q1,Central
+2016-02-16,Madhya Pradesh,Jal Mahotsav,Handicrafts,4337,High,8144886,490,2,2016,Q1,Central
+2016-02-26,Haryana,Surajkund Mela,Handicrafts,8859,High,10515633,901,2,2016,Q1,North
+2016-02-09,Arunachal Pradesh,Orange Festival,Folk Dance,9276,High,9405864,803,2,2016,Q1,North East
+2016-02-25,Chandigarh,Rose Festival,Folk Dance,6568,High,8820824,629,2,2016,Q1,North
+2016-02-08,Bihar,Rajgir Mahotsav,Traditional Music,5495,High,5835690,618,2,2016,Q1,East
+2016-02-17,Chhattisgarh,Bastar Dussehra,Folk Dance,4391,High,7350534,490,2,2016,Q1,Central
+2016-02-27,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,9892,High,14729188,933,2,2016,Q1,North
+2016-11-09,Odisha,Konark Dance Festival,Classical Dance,7099,High,8050266,809,11,2016,Q4,East
+2016-11-12,Nagaland,Hornbill Festival,Folk Dance,7104,High,7437888,673,11,2016,Q4,North East
+2016-11-24,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4804,High,5274792,497,11,2016,Q4,North East
+2016-11-22,Rajasthan,Bundi Utsav,Traditional Music,5570,High,10917200,530,11,2016,Q4,West
+2016-11-15,Gujarat,Kankaria Carnival,Folk Dance,9581,High,15732002,1058,11,2016,Q4,West
+2016-11-26,Gujarat,International Kite Festival,Handicrafts,4502,High,7950532,406,11,2016,Q4,West
+2016-11-27,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,8488,High,10236528,824,11,2016,Q4,Central
+2016-11-10,Madhya Pradesh,Jal Mahotsav,Handicrafts,5484,High,9267960,445,11,2016,Q4,Central
+2016-11-07,Haryana,Surajkund Mela,Handicrafts,4563,High,4996485,491,11,2016,Q4,North
+2016-11-05,Arunachal Pradesh,Orange Festival,Folk Dance,5678,High,6643260,500,11,2016,Q4,North East
+2016-11-13,Chandigarh,Rose Festival,Folk Dance,9279,High,17054802,849,11,2016,Q4,North
+2016-11-22,Bihar,Rajgir Mahotsav,Traditional Music,9915,High,15635955,1040,11,2016,Q4,East
+2016-11-25,Chhattisgarh,Bastar Dussehra,Folk Dance,7060,High,11613700,693,11,2016,Q4,Central
+2016-11-12,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,7627,High,10212553,882,11,2016,Q4,North
+2016-12-11,Odisha,Konark Dance Festival,Classical Dance,5663,High,8522815,480,12,2016,Q4,East
+2016-12-25,Nagaland,Hornbill Festival,Folk Dance,7302,High,8682078,616,12,2016,Q4,North East
+2016-12-25,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,5306,High,10383842,424,12,2016,Q4,North East
+2016-12-13,Rajasthan,Bundi Utsav,Traditional Music,9864,High,12408912,791,12,2016,Q4,West
+2016-12-08,Gujarat,Kankaria Carnival,Folk Dance,9530,High,15705440,947,12,2016,Q4,West
+2016-12-01,Gujarat,International Kite Festival,Handicrafts,9353,High,15741099,839,12,2016,Q4,West
+2016-12-27,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,7445,High,12440595,750,12,2016,Q4,Central
+2016-12-09,Madhya Pradesh,Jal Mahotsav,Handicrafts,7763,High,8632456,641,12,2016,Q4,Central
+2016-12-26,Haryana,Surajkund Mela,Handicrafts,8659,High,10970953,779,12,2016,Q4,North
+2016-12-02,Arunachal Pradesh,Orange Festival,Folk Dance,5636,High,9152864,675,12,2016,Q4,North East
+2016-12-27,Chandigarh,Rose Festival,Folk Dance,6160,High,6166160,616,12,2016,Q4,North
+2016-12-22,Bihar,Rajgir Mahotsav,Traditional Music,4854,High,9688584,455,12,2016,Q4,East
+2016-12-01,Chhattisgarh,Bastar Dussehra,Folk Dance,7474,High,12234938,641,12,2016,Q4,Central
+2016-12-12,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,6777,High,11324367,692,12,2016,Q4,North
+2017-01-23,Odisha,Konark Dance Festival,Classical Dance,8931,High,12842778,986,1,2017,Q1,East
+2017-01-27,Nagaland,Hornbill Festival,Folk Dance,8496,High,15003936,952,1,2017,Q1,North East
+2017-01-05,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,6931,High,11151979,730,1,2017,Q1,North East
+2017-01-11,Rajasthan,Bundi Utsav,Traditional Music,7582,High,13276082,848,1,2017,Q1,West
+2017-01-09,Gujarat,Kankaria Carnival,Folk Dance,5147,High,6104342,450,1,2017,Q1,West
+2017-01-03,Gujarat,International Kite Festival,Handicrafts,4659,High,8213817,498,1,2017,Q1,West
+2017-01-19,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5369,High,10533978,603,1,2017,Q1,Central
+2017-01-20,Madhya Pradesh,Jal Mahotsav,Handicrafts,6911,High,11817810,601,1,2017,Q1,Central
+2017-01-01,Haryana,Surajkund Mela,Handicrafts,5959,High,9766801,600,1,2017,Q1,North
+2017-01-08,Arunachal Pradesh,Orange Festival,Folk Dance,8736,High,15532608,818,1,2017,Q1,North East
+2017-01-25,Chandigarh,Rose Festival,Folk Dance,9534,High,18963126,1028,1,2017,Q1,North
+2017-01-07,Bihar,Rajgir Mahotsav,Traditional Music,9883,High,11296269,1113,1,2017,Q1,East
+2017-01-25,Chhattisgarh,Bastar Dussehra,Folk Dance,7643,High,14368840,685,1,2017,Q1,Central
+2017-01-16,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,7723,High,11213796,895,1,2017,Q1,North
+2017-02-27,Odisha,Konark Dance Festival,Classical Dance,6056,High,7460992,569,2,2017,Q1,East
+2017-02-16,Nagaland,Hornbill Festival,Folk Dance,6255,High,7068150,714,2,2017,Q1,North East
+2017-02-22,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7191,High,12023352,759,2,2017,Q1,North East
+2017-02-11,Rajasthan,Bundi Utsav,Traditional Music,5648,High,11109616,629,2,2017,Q1,West
+2017-02-08,Gujarat,Kankaria Carnival,Folk Dance,7923,High,9927519,636,2,2017,Q1,West
+2017-02-25,Gujarat,International Kite Festival,Handicrafts,4098,High,4720896,328,2,2017,Q1,West
+2017-02-14,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,8433,High,14378265,908,2,2017,Q1,Central
+2017-02-16,Madhya Pradesh,Jal Mahotsav,Handicrafts,4956,High,8326080,431,2,2017,Q1,Central
+2017-02-04,Haryana,Surajkund Mela,Handicrafts,8493,High,10837068,740,2,2017,Q1,North
+2017-02-24,Arunachal Pradesh,Orange Festival,Folk Dance,9511,High,10785474,1035,2,2017,Q1,North East
+2017-02-01,Chandigarh,Rose Festival,Folk Dance,6735,High,9826365,675,2,2017,Q1,North
+2017-02-22,Bihar,Rajgir Mahotsav,Traditional Music,7446,High,7602366,668,2,2017,Q1,East
+2017-02-06,Chhattisgarh,Bastar Dussehra,Folk Dance,7436,High,11615032,860,2,2017,Q1,Central
+2017-02-27,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,4225,High,5391100,422,2,2017,Q1,North
+2017-11-15,Odisha,Konark Dance Festival,Classical Dance,4959,High,7339320,435,11,2017,Q4,East
+2017-11-16,Nagaland,Hornbill Festival,Folk Dance,8754,High,13262310,708,11,2017,Q4,North East
+2017-11-17,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4016,High,4702736,472,11,2017,Q4,North East
+2017-11-14,Rajasthan,Bundi Utsav,Traditional Music,7444,High,11292548,705,11,2017,Q4,West
+2017-11-09,Gujarat,Kankaria Carnival,Folk Dance,5060,High,6471740,471,11,2017,Q4,West
+2017-11-14,Gujarat,International Kite Festival,Handicrafts,8276,High,13291256,981,11,2017,Q4,West
+2017-11-01,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5139,High,6115410,473,11,2017,Q4,Central
+2017-11-23,Madhya Pradesh,Jal Mahotsav,Handicrafts,5184,High,6505920,515,11,2017,Q4,Central
+2017-11-18,Haryana,Surajkund Mela,Handicrafts,5816,High,10084944,661,11,2017,Q4,North
+2017-11-03,Arunachal Pradesh,Orange Festival,Folk Dance,5895,High,9933075,494,11,2017,Q4,North East
+2017-11-15,Chandigarh,Rose Festival,Folk Dance,6901,High,11469462,590,11,2017,Q4,North
+2017-11-27,Bihar,Rajgir Mahotsav,Traditional Music,6537,High,9053745,607,11,2017,Q4,East
+2017-11-08,Chhattisgarh,Bastar Dussehra,Folk Dance,8341,High,9800675,851,11,2017,Q4,Central
+2017-11-10,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,6806,High,10460822,765,11,2017,Q4,North
+2017-12-25,Odisha,Konark Dance Festival,Classical Dance,6455,High,9837420,537,12,2017,Q4,East
+2017-12-07,Nagaland,Hornbill Festival,Folk Dance,8131,High,13692604,713,12,2017,Q4,North East
+2017-12-08,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,8495,High,14042235,982,12,2017,Q4,North East
+2017-12-23,Rajasthan,Bundi Utsav,Traditional Music,5166,High,5636106,532,12,2017,Q4,West
+2017-12-23,Gujarat,Kankaria Carnival,Folk Dance,5982,High,11084646,557,12,2017,Q4,West
+2017-12-26,Gujarat,International Kite Festival,Handicrafts,4574,High,5438486,418,12,2017,Q4,West
+2017-12-26,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5715,High,9606915,645,12,2017,Q4,Central
+2017-12-22,Madhya Pradesh,Jal Mahotsav,Handicrafts,6491,High,10463492,654,12,2017,Q4,Central
+2017-12-21,Haryana,Surajkund Mela,Handicrafts,9691,High,15689729,1016,12,2017,Q4,North
+2017-12-04,Arunachal Pradesh,Orange Festival,Folk Dance,8869,High,16638244,778,12,2017,Q4,North East
+2017-12-15,Chandigarh,Rose Festival,Folk Dance,8364,High,11450316,841,12,2017,Q4,North
+2017-12-19,Bihar,Rajgir Mahotsav,Traditional Music,8752,High,9793488,794,12,2017,Q4,East
+2017-12-26,Chhattisgarh,Bastar Dussehra,Folk Dance,5369,High,9342060,469,12,2017,Q4,Central
+2017-12-23,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,5150,High,7168800,553,12,2017,Q4,North
+2018-01-01,Odisha,Konark Dance Festival,Classical Dance,5081,High,8297273,438,1,2018,Q1,East
+2018-01-02,Nagaland,Hornbill Festival,Folk Dance,9215,High,15084955,771,1,2018,Q1,North East
+2018-01-25,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,8583,High,10608588,782,1,2018,Q1,North East
+2018-01-16,Rajasthan,Bundi Utsav,Traditional Music,9308,High,18597384,989,1,2018,Q1,West
+2018-01-05,Gujarat,Kankaria Carnival,Folk Dance,6294,High,12348828,565,1,2018,Q1,West
+2018-01-16,Gujarat,International Kite Festival,Handicrafts,7506,High,14981976,636,1,2018,Q1,West
+2018-01-14,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5243,High,5599524,439,1,2018,Q1,Central
+2018-01-14,Madhya Pradesh,Jal Mahotsav,Handicrafts,9053,High,13144956,895,1,2018,Q1,Central
+2018-01-26,Haryana,Surajkund Mela,Handicrafts,6479,High,8681860,641,1,2018,Q1,North
+2018-01-01,Arunachal Pradesh,Orange Festival,Folk Dance,5757,High,7806492,552,1,2018,Q1,North East
+2018-01-10,Chandigarh,Rose Festival,Folk Dance,9877,High,18134172,1140,1,2018,Q1,North
+2018-01-20,Bihar,Rajgir Mahotsav,Traditional Music,7730,High,11138930,773,1,2018,Q1,East
+2018-01-24,Chhattisgarh,Bastar Dussehra,Folk Dance,5348,High,8102220,559,1,2018,Q1,Central
+2018-01-16,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,9878,High,12416646,800,1,2018,Q1,North
+2018-02-27,Odisha,Konark Dance Festival,Classical Dance,4851,High,8067213,519,2,2018,Q1,East
+2018-02-03,Nagaland,Hornbill Festival,Folk Dance,6427,High,9923288,631,2,2018,Q1,North East
+2018-02-19,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7498,High,12086776,787,2,2018,Q1,North East
+2018-02-01,Rajasthan,Bundi Utsav,Traditional Music,9536,High,11128512,1108,2,2018,Q1,West
+2018-02-12,Gujarat,Kankaria Carnival,Folk Dance,8380,High,11698480,742,2,2018,Q1,West
+2018-02-14,Gujarat,International Kite Festival,Handicrafts,7969,High,9977188,667,2,2018,Q1,West
+2018-02-03,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,6774,High,12518352,719,2,2018,Q1,Central
+2018-02-26,Madhya Pradesh,Jal Mahotsav,Handicrafts,5625,High,7970625,508,2,2018,Q1,Central
+2018-02-07,Haryana,Surajkund Mela,Handicrafts,7267,High,13262275,783,2,2018,Q1,North
+2018-02-13,Arunachal Pradesh,Orange Festival,Folk Dance,7146,High,10090152,582,2,2018,Q1,North East
+2018-02-25,Chandigarh,Rose Festival,Folk Dance,7348,High,12932480,748,2,2018,Q1,North
+2018-02-05,Bihar,Rajgir Mahotsav,Traditional Music,6504,High,12481176,730,2,2018,Q1,East
+2018-02-17,Chhattisgarh,Bastar Dussehra,Folk Dance,5122,High,7923734,485,2,2018,Q1,Central
+2018-02-07,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,6143,High,10215809,704,2,2018,Q1,North
+2018-11-05,Odisha,Konark Dance Festival,Classical Dance,7851,High,10740168,841,11,2018,Q4,East
+2018-11-23,Nagaland,Hornbill Festival,Folk Dance,6914,High,12943008,657,11,2018,Q4,North East
+2018-11-17,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4595,High,8634005,439,11,2018,Q4,North East
+2018-11-13,Rajasthan,Bundi Utsav,Traditional Music,4698,High,4782564,448,11,2018,Q4,West
+2018-11-12,Gujarat,Kankaria Carnival,Folk Dance,8171,High,10328144,758,11,2018,Q4,West
+2018-11-14,Gujarat,International Kite Festival,Handicrafts,6782,High,9379506,673,11,2018,Q4,West
+2018-11-26,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,9486,High,10842498,929,11,2018,Q4,Central
+2018-11-03,Madhya Pradesh,Jal Mahotsav,Handicrafts,8491,High,8694784,867,11,2018,Q4,Central
+2018-11-21,Haryana,Surajkund Mela,Handicrafts,7636,High,8781400,849,11,2018,Q4,North
+2018-11-07,Arunachal Pradesh,Orange Festival,Folk Dance,6156,High,10415952,614,11,2018,Q4,North East
+2018-11-07,Chandigarh,Rose Festival,Folk Dance,7294,High,11911102,712,11,2018,Q4,North
+2018-11-23,Bihar,Rajgir Mahotsav,Traditional Music,4732,High,5839288,512,11,2018,Q4,East
+2018-11-15,Chhattisgarh,Bastar Dussehra,Folk Dance,4953,High,7384923,567,11,2018,Q4,Central
+2018-11-06,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,5542,High,6500766,598,11,2018,Q4,North
+2018-12-10,Odisha,Konark Dance Festival,Classical Dance,9512,High,18500840,1100,12,2018,Q4,East
+2018-12-02,Nagaland,Hornbill Festival,Folk Dance,5540,High,5695120,462,12,2018,Q4,North East
+2018-12-19,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7719,High,11539905,884,12,2018,Q4,North East
+2018-12-22,Rajasthan,Bundi Utsav,Traditional Music,4499,High,7450344,530,12,2018,Q4,West
+2018-12-25,Gujarat,Kankaria Carnival,Folk Dance,5324,High,6021444,500,12,2018,Q4,West
+2018-12-19,Gujarat,International Kite Festival,Handicrafts,6923,High,8176063,749,12,2018,Q4,West
+2018-12-10,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,9977,High,15264810,842,12,2018,Q4,Central
+2018-12-03,Madhya Pradesh,Jal Mahotsav,Handicrafts,8268,High,13658736,795,12,2018,Q4,Central
+2018-12-26,Haryana,Surajkund Mela,Handicrafts,9779,High,14424025,1082,12,2018,Q4,North
+2018-12-09,Arunachal Pradesh,Orange Festival,Folk Dance,5958,High,5958000,638,12,2018,Q4,North East
+2018-12-25,Chandigarh,Rose Festival,Folk Dance,5214,High,7857498,476,12,2018,Q4,North
+2018-12-24,Bihar,Rajgir Mahotsav,Traditional Music,4928,High,9525824,480,12,2018,Q4,East
+2018-12-26,Chhattisgarh,Bastar Dussehra,Folk Dance,7627,High,12843868,906,12,2018,Q4,Central
+2018-12-15,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,9268,High,10000172,937,12,2018,Q4,North
+2019-01-11,Odisha,Konark Dance Festival,Classical Dance,6811,High,8363908,613,1,2019,Q1,East
+2019-01-19,Nagaland,Hornbill Festival,Folk Dance,9651,High,13897440,974,1,2019,Q1,North East
+2019-01-09,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7376,High,11248400,676,1,2019,Q1,North East
+2019-01-01,Rajasthan,Bundi Utsav,Traditional Music,5396,High,8444740,557,1,2019,Q1,West
+2019-01-16,Gujarat,Kankaria Carnival,Folk Dance,4470,High,8725440,521,1,2019,Q1,West
+2019-01-10,Gujarat,International Kite Festival,Handicrafts,6783,High,12094089,784,1,2019,Q1,West
+2019-01-12,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,4667,High,6403124,425,1,2019,Q1,Central
+2019-01-04,Madhya Pradesh,Jal Mahotsav,Handicrafts,8185,High,13480695,770,1,2019,Q1,Central
+2019-01-18,Haryana,Surajkund Mela,Handicrafts,4539,High,7857009,428,1,2019,Q1,North
+2019-01-04,Arunachal Pradesh,Orange Festival,Folk Dance,7775,High,14943550,839,1,2019,Q1,North East
+2019-01-17,Chandigarh,Rose Festival,Folk Dance,9320,High,17968960,898,1,2019,Q1,North
+2019-01-13,Bihar,Rajgir Mahotsav,Traditional Music,6779,High,11870029,586,1,2019,Q1,East
+2019-01-14,Chhattisgarh,Bastar Dussehra,Folk Dance,7324,High,10173036,864,1,2019,Q1,Central
+2019-01-05,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,5838,High,11208960,564,1,2019,Q1,North
+2019-02-24,Odisha,Konark Dance Festival,Classical Dance,4797,High,5953077,489,2,2019,Q1,East
+2019-02-05,Nagaland,Hornbill Festival,Folk Dance,5015,High,9027000,557,2,2019,Q1,North East
+2019-02-18,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4223,High,5228074,363,2,2019,Q1,North East
+2019-02-21,Rajasthan,Bundi Utsav,Traditional Music,8158,High,9920128,969,2,2019,Q1,West
+2019-02-27,Gujarat,Kankaria Carnival,Folk Dance,8784,High,12824640,725,2,2019,Q1,West
+2019-02-09,Gujarat,International Kite Festival,Handicrafts,4510,High,6241840,363,2,2019,Q1,West
+2019-02-23,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,8613,High,12704175,969,2,2019,Q1,Central
+2019-02-05,Madhya Pradesh,Jal Mahotsav,Handicrafts,9989,High,17680530,1021,2,2019,Q1,Central
+2019-02-05,Haryana,Surajkund Mela,Handicrafts,7636,High,12797936,842,2,2019,Q1,North
+2019-02-19,Arunachal Pradesh,Orange Festival,Folk Dance,9264,High,10042176,908,2,2019,Q1,North East
+2019-02-14,Chandigarh,Rose Festival,Folk Dance,6048,High,6350400,550,2,2019,Q1,North
+2019-02-04,Bihar,Rajgir Mahotsav,Traditional Music,9565,High,13850120,1022,2,2019,Q1,East
+2019-02-02,Chhattisgarh,Bastar Dussehra,Folk Dance,7419,High,8116386,627,2,2019,Q1,Central
+2019-02-26,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,4249,High,7108577,420,2,2019,Q1,North
+2019-11-03,Odisha,Konark Dance Festival,Classical Dance,7962,High,10390410,908,11,2019,Q4,East
+2019-11-22,Nagaland,Hornbill Festival,Folk Dance,4235,High,5878180,353,11,2019,Q4,North East
+2019-11-27,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,5848,High,8187200,499,11,2019,Q4,North East
+2019-11-15,Rajasthan,Bundi Utsav,Traditional Music,7278,High,8937384,762,11,2019,Q4,West
+2019-11-02,Gujarat,Kankaria Carnival,Folk Dance,6122,High,8778948,710,11,2019,Q4,West
+2019-11-02,Gujarat,International Kite Festival,Handicrafts,5329,High,5845913,562,11,2019,Q4,West
+2019-11-15,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,6482,High,9372972,706,11,2019,Q4,Central
+2019-11-25,Madhya Pradesh,Jal Mahotsav,Handicrafts,8261,High,12226280,919,11,2019,Q4,Central
+2019-11-23,Haryana,Surajkund Mela,Handicrafts,7177,High,11210474,774,11,2019,Q4,North
+2019-11-04,Arunachal Pradesh,Orange Festival,Folk Dance,4137,High,4894071,470,11,2019,Q4,North East
+2019-11-17,Chandigarh,Rose Festival,Folk Dance,7579,High,14028729,745,11,2019,Q4,North
+2019-11-02,Bihar,Rajgir Mahotsav,Traditional Music,9569,High,11521076,845,11,2019,Q4,East
+2019-11-11,Chhattisgarh,Bastar Dussehra,Folk Dance,7823,High,15411310,649,11,2019,Q4,Central
+2019-11-25,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,7445,High,14227395,786,11,2019,Q4,North
+2019-12-08,Odisha,Konark Dance Festival,Classical Dance,6947,High,11775165,670,12,2019,Q4,East
+2019-12-03,Nagaland,Hornbill Festival,Folk Dance,4666,High,5095272,554,12,2019,Q4,North East
+2019-12-26,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7122,High,9985044,803,12,2019,Q4,North East
+2019-12-18,Rajasthan,Bundi Utsav,Traditional Music,8699,High,14623019,757,12,2019,Q4,West
+2019-12-21,Gujarat,Kankaria Carnival,Folk Dance,4523,High,6083435,523,12,2019,Q4,West
+2019-12-17,Gujarat,International Kite Festival,Handicrafts,9197,High,15901613,989,12,2019,Q4,West
+2019-12-09,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,6296,High,6585616,661,12,2019,Q4,Central
+2019-12-15,Madhya Pradesh,Jal Mahotsav,Handicrafts,9175,High,12377075,791,12,2019,Q4,Central
+2019-12-16,Haryana,Surajkund Mela,Handicrafts,7644,High,10212384,696,12,2019,Q4,North
+2019-12-01,Arunachal Pradesh,Orange Festival,Folk Dance,6055,High,9833320,629,12,2019,Q4,North East
+2019-12-20,Chandigarh,Rose Festival,Folk Dance,6766,High,8809332,641,12,2019,Q4,North
+2019-12-22,Bihar,Rajgir Mahotsav,Traditional Music,4525,High,6665325,499,12,2019,Q4,East
+2019-12-14,Chhattisgarh,Bastar Dussehra,Folk Dance,7287,High,10092495,800,12,2019,Q4,Central
+2019-12-14,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,9431,High,17749142,1023,12,2019,Q4,North
+2020-01-15,Odisha,Konark Dance Festival,Classical Dance,1018,Low,1780482,111,1,2020,Q1,East
+2020-01-13,Nagaland,Hornbill Festival,Folk Dance,1397,Low,2102485,131,1,2020,Q1,North East
+2020-01-19,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,1138,Low,1355358,103,1,2020,Q1,North East
+2020-01-05,Rajasthan,Bundi Utsav,Traditional Music,127,Low,217551,13,1,2020,Q1,West
+2020-01-17,Gujarat,Kankaria Carnival,Folk Dance,1354,Low,1469090,126,1,2020,Q1,West
+2020-01-12,Gujarat,International Kite Festival,Handicrafts,636,Low,727584,59,1,2020,Q1,West
+2020-01-25,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,166,Low,204512,16,1,2020,Q1,Central
+2020-01-15,Madhya Pradesh,Jal Mahotsav,Handicrafts,327,Low,362970,35,1,2020,Q1,Central
+2020-01-15,Haryana,Surajkund Mela,Handicrafts,1492,Low,2606524,126,1,2020,Q1,North
+2020-01-09,Arunachal Pradesh,Orange Festival,Folk Dance,712,Low,1080104,82,1,2020,Q1,North East
+2020-01-02,Chandigarh,Rose Festival,Folk Dance,414,Low,776664,38,1,2020,Q1,North
+2020-01-25,Bihar,Rajgir Mahotsav,Traditional Music,1412,Low,2027632,118,1,2020,Q1,East
+2020-01-06,Chhattisgarh,Bastar Dussehra,Folk Dance,723,Low,1095345,82,1,2020,Q1,Central
+2020-01-24,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,922,Low,1047392,76,1,2020,Q1,North
+2020-02-19,Odisha,Konark Dance Festival,Classical Dance,642,Low,667038,69,2,2020,Q1,East
+2020-02-24,Nagaland,Hornbill Festival,Folk Dance,1346,Low,1352730,129,2,2020,Q1,North East
+2020-02-11,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,103,Low,190138,11,2,2020,Q1,North East
+2020-02-17,Rajasthan,Bundi Utsav,Traditional Music,603,Low,1204191,64,2,2020,Q1,West
+2020-02-25,Gujarat,Kankaria Carnival,Folk Dance,293,Low,540878,29,2,2020,Q1,West
+2020-02-26,Gujarat,International Kite Festival,Handicrafts,272,Low,353328,23,2,2020,Q1,West
+2020-02-26,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,1241,Low,2277235,120,2,2020,Q1,Central
+2020-02-01,Madhya Pradesh,Jal Mahotsav,Handicrafts,631,Low,701672,63,2,2020,Q1,Central
+2020-02-01,Haryana,Surajkund Mela,Handicrafts,189,Low,312417,17,2,2020,Q1,North
+2020-02-05,Arunachal Pradesh,Orange Festival,Folk Dance,238,Low,359380,23,2,2020,Q1,North East
+2020-02-11,Chandigarh,Rose Festival,Folk Dance,358,Low,598576,33,2,2020,Q1,North
+2020-02-24,Bihar,Rajgir Mahotsav,Traditional Music,109,Low,137340,8,2,2020,Q1,East
+2020-02-12,Chhattisgarh,Bastar Dussehra,Folk Dance,997,Low,1008964,107,2,2020,Q1,Central
+2020-02-20,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,420,Low,553560,45,2,2020,Q1,North
+2020-11-17,Odisha,Konark Dance Festival,Classical Dance,876,Low,1725720,86,11,2020,Q4,East
+2020-11-06,Nagaland,Hornbill Festival,Folk Dance,1218,Low,2211888,138,11,2020,Q4,North East
+2020-11-12,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,433,Low,815772,47,11,2020,Q4,North East
+2020-11-09,Rajasthan,Bundi Utsav,Traditional Music,687,Low,1369878,56,11,2020,Q4,West
+2020-11-08,Gujarat,Kankaria Carnival,Folk Dance,1443,Low,2766231,118,11,2020,Q4,West
+2020-11-08,Gujarat,International Kite Festival,Handicrafts,972,Low,1193616,85,11,2020,Q4,West
+2020-11-03,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,824,Low,959136,92,11,2020,Q4,Central
+2020-11-27,Madhya Pradesh,Jal Mahotsav,Handicrafts,177,Low,249393,20,11,2020,Q4,Central
+2020-11-25,Haryana,Surajkund Mela,Handicrafts,1165,Low,1267520,125,11,2020,Q4,North
+2020-11-08,Arunachal Pradesh,Orange Festival,Folk Dance,1418,Low,2290070,134,11,2020,Q4,North East
+2020-11-19,Chandigarh,Rose Festival,Folk Dance,521,Low,971144,57,11,2020,Q4,North
+2020-11-15,Bihar,Rajgir Mahotsav,Traditional Music,1092,Low,1817088,102,11,2020,Q4,East
+2020-11-15,Chhattisgarh,Bastar Dussehra,Folk Dance,602,Low,1180522,61,11,2020,Q4,Central
+2020-11-08,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,203,Low,395038,20,11,2020,Q4,North
+2020-12-06,Odisha,Konark Dance Festival,Classical Dance,678,Low,942420,74,12,2020,Q4,East
+2020-12-10,Nagaland,Hornbill Festival,Folk Dance,1138,Low,1845836,119,12,2020,Q4,North East
+2020-12-20,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,577,Low,709710,59,12,2020,Q4,North East
+2020-12-06,Rajasthan,Bundi Utsav,Traditional Music,1220,Low,2435120,135,12,2020,Q4,West
+2020-12-01,Gujarat,Kankaria Carnival,Folk Dance,1377,Low,1645515,141,12,2020,Q4,West
+2020-12-10,Gujarat,International Kite Festival,Handicrafts,616,Low,1006544,67,12,2020,Q4,West
+2020-12-22,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,905,Low,1726740,76,12,2020,Q4,Central
+2020-12-04,Madhya Pradesh,Jal Mahotsav,Handicrafts,315,Low,613305,30,12,2020,Q4,Central
+2020-12-08,Haryana,Surajkund Mela,Handicrafts,1384,Low,1599904,123,12,2020,Q4,North
+2020-12-12,Arunachal Pradesh,Orange Festival,Folk Dance,229,Low,322890,24,12,2020,Q4,North East
+2020-12-19,Chandigarh,Rose Festival,Folk Dance,1415,Low,2537095,127,12,2020,Q4,North
+2020-12-05,Bihar,Rajgir Mahotsav,Traditional Music,110,Low,137830,12,12,2020,Q4,East
+2020-12-06,Chhattisgarh,Bastar Dussehra,Folk Dance,1257,Low,2150727,121,12,2020,Q4,Central
+2020-12-26,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,401,Low,546162,34,12,2020,Q4,North
+2021-01-13,Odisha,Konark Dance Festival,Classical Dance,1484,Low,2956128,119,1,2021,Q1,East
+2021-01-11,Nagaland,Hornbill Festival,Folk Dance,855,Low,1131165,95,1,2021,Q1,North East
+2021-01-05,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,2363,Medium,2660738,203,1,2021,Q1,North East
+2021-01-26,Rajasthan,Bundi Utsav,Traditional Music,2428,Medium,2549400,265,1,2021,Q1,West
+2021-01-08,Gujarat,Kankaria Carnival,Folk Dance,1930,Medium,3412240,163,1,2021,Q1,West
+2021-01-21,Gujarat,International Kite Festival,Handicrafts,2145,Medium,3043755,182,1,2021,Q1,West
+2021-01-25,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,2354,Medium,4587946,237,1,2021,Q1,Central
+2021-01-08,Madhya Pradesh,Jal Mahotsav,Handicrafts,2434,Medium,4040440,231,1,2021,Q1,Central
+2021-01-21,Haryana,Surajkund Mela,Handicrafts,701,Low,1005935,78,1,2021,Q1,North
+2021-01-26,Arunachal Pradesh,Orange Festival,Folk Dance,1436,Low,2587672,137,1,2021,Q1,North East
+2021-01-25,Chandigarh,Rose Festival,Folk Dance,2125,Medium,2282250,248,1,2021,Q1,North
+2021-01-07,Bihar,Rajgir Mahotsav,Traditional Music,974,Low,1380158,113,1,2021,Q1,East
+2021-01-11,Chhattisgarh,Bastar Dussehra,Folk Dance,1454,Low,2726250,169,1,2021,Q1,Central
+2021-01-22,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,1163,Low,1190912,116,1,2021,Q1,North
+2021-02-06,Odisha,Konark Dance Festival,Classical Dance,2379,Medium,2759640,224,2,2021,Q1,East
+2021-02-11,Nagaland,Hornbill Festival,Folk Dance,1161,Low,1933065,93,2,2021,Q1,North East
+2021-02-21,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,1466,Low,2709168,173,2,2021,Q1,North East
+2021-02-17,Rajasthan,Bundi Utsav,Traditional Music,647,Low,1053963,74,2,2021,Q1,West
+2021-02-08,Gujarat,Kankaria Carnival,Folk Dance,826,Low,1460368,76,2,2021,Q1,West
+2021-02-23,Gujarat,International Kite Festival,Handicrafts,2982,Medium,5635980,333,2,2021,Q1,West
+2021-02-17,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,928,Low,1369728,91,2,2021,Q1,Central
+2021-02-08,Madhya Pradesh,Jal Mahotsav,Handicrafts,2565,Medium,4534920,284,2,2021,Q1,Central
+2021-02-15,Haryana,Surajkund Mela,Handicrafts,693,Low,1040193,67,2,2021,Q1,North
+2021-02-18,Arunachal Pradesh,Orange Festival,Folk Dance,2201,Medium,4283146,189,2,2021,Q1,North East
+2021-02-01,Chandigarh,Rose Festival,Folk Dance,554,Low,1035980,61,2,2021,Q1,North
+2021-02-10,Bihar,Rajgir Mahotsav,Traditional Music,1981,Medium,3918418,209,2,2021,Q1,East
+2021-02-01,Chhattisgarh,Bastar Dussehra,Folk Dance,2634,Medium,2776236,227,2,2021,Q1,Central
+2021-02-18,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,1332,Low,1747584,118,2,2021,Q1,North
+2021-11-24,Odisha,Konark Dance Festival,Classical Dance,2506,Medium,3613652,251,11,2021,Q4,East
+2021-11-08,Nagaland,Hornbill Festival,Folk Dance,1787,Medium,2532179,200,11,2021,Q4,North East
+2021-11-24,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,1811,Medium,2026509,203,11,2021,Q4,North East
+2021-11-16,Rajasthan,Bundi Utsav,Traditional Music,951,Low,1425549,101,11,2021,Q4,West
+2021-11-21,Gujarat,Kankaria Carnival,Folk Dance,1409,Low,2443206,130,11,2021,Q4,West
+2021-11-18,Gujarat,International Kite Festival,Handicrafts,2554,Medium,3394266,213,11,2021,Q4,West
+2021-11-23,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,646,Low,1048458,56,11,2021,Q4,Central
+2021-11-04,Madhya Pradesh,Jal Mahotsav,Handicrafts,1808,Medium,3071792,195,11,2021,Q4,Central
+2021-11-01,Haryana,Surajkund Mela,Handicrafts,2439,Medium,3712158,220,11,2021,Q4,North
+2021-11-02,Arunachal Pradesh,Orange Festival,Folk Dance,1206,Low,1772820,98,11,2021,Q4,North East
+2021-11-20,Chandigarh,Rose Festival,Folk Dance,2808,Medium,5065632,270,11,2021,Q4,North
+2021-11-09,Bihar,Rajgir Mahotsav,Traditional Music,1576,Medium,3055864,139,11,2021,Q4,East
+2021-11-26,Chhattisgarh,Bastar Dussehra,Folk Dance,1887,Medium,2413473,159,11,2021,Q4,Central
+2021-11-24,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,2606,Medium,4497956,291,11,2021,Q4,North
+2021-12-17,Odisha,Konark Dance Festival,Classical Dance,1020,Low,1582020,110,12,2021,Q4,East
+2021-12-25,Nagaland,Hornbill Festival,Folk Dance,2281,Medium,2912837,258,12,2021,Q4,North East
+2021-12-04,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,941,Low,967348,81,12,2021,Q4,North East
+2021-12-23,Rajasthan,Bundi Utsav,Traditional Music,1304,Low,1400496,147,12,2021,Q4,West
+2021-12-21,Gujarat,Kankaria Carnival,Folk Dance,2589,Medium,3508095,258,12,2021,Q4,West
+2021-12-02,Gujarat,International Kite Festival,Handicrafts,2200,Medium,2534400,219,12,2021,Q4,West
+2021-12-12,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,2122,Medium,3454616,170,12,2021,Q4,Central
+2021-12-21,Madhya Pradesh,Jal Mahotsav,Handicrafts,2574,Medium,4694976,233,12,2021,Q4,Central
+2021-12-27,Haryana,Surajkund Mela,Handicrafts,667,Low,1073203,69,12,2021,Q4,North
+2021-12-25,Arunachal Pradesh,Orange Festival,Folk Dance,954,Low,1817370,111,12,2021,Q4,North East
+2021-12-26,Chandigarh,Rose Festival,Folk Dance,1201,Low,1961233,116,12,2021,Q4,North
+2021-12-02,Bihar,Rajgir Mahotsav,Traditional Music,2345,Medium,3193890,204,12,2021,Q4,East
+2021-12-21,Chhattisgarh,Bastar Dussehra,Folk Dance,1894,Medium,3395942,156,12,2021,Q4,Central
+2021-12-11,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,1819,Medium,1837190,171,12,2021,Q4,North
+2022-01-17,Odisha,Konark Dance Festival,Classical Dance,2186,Medium,3947916,228,1,2022,Q1,East
+2022-01-22,Nagaland,Hornbill Festival,Folk Dance,2097,Medium,2210238,223,1,2022,Q1,North East
+2022-01-22,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,2405,Medium,2568540,238,1,2022,Q1,North East
+2022-01-26,Rajasthan,Bundi Utsav,Traditional Music,5619,High,9833250,508,1,2022,Q1,West
+2022-01-03,Gujarat,Kankaria Carnival,Folk Dance,5315,High,7919350,605,1,2022,Q1,West
+2022-01-27,Gujarat,International Kite Festival,Handicrafts,2364,Medium,3501084,248,1,2022,Q1,West
+2022-01-02,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,3524,Medium,3777728,292,1,2022,Q1,Central
+2022-01-17,Madhya Pradesh,Jal Mahotsav,Handicrafts,3664,Medium,4455424,396,1,2022,Q1,Central
+2022-01-08,Haryana,Surajkund Mela,Handicrafts,4089,High,4187136,367,1,2022,Q1,North
+2022-01-03,Arunachal Pradesh,Orange Festival,Folk Dance,5569,High,6838732,446,1,2022,Q1,North East
+2022-01-19,Chandigarh,Rose Festival,Folk Dance,5549,High,6109449,574,1,2022,Q1,North
+2022-01-19,Bihar,Rajgir Mahotsav,Traditional Music,3636,Medium,3792348,408,1,2022,Q1,East
+2022-01-17,Chhattisgarh,Bastar Dussehra,Folk Dance,5004,High,5084064,590,1,2022,Q1,Central
+2022-01-23,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,3520,Medium,6385280,293,1,2022,Q1,North
+2022-02-16,Odisha,Konark Dance Festival,Classical Dance,2215,Medium,2963670,242,2,2022,Q1,East
+2022-02-21,Nagaland,Hornbill Festival,Folk Dance,5152,High,8892352,561,2,2022,Q1,North East
+2022-02-16,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,2709,Medium,3248091,243,2,2022,Q1,North East
+2022-02-25,Rajasthan,Bundi Utsav,Traditional Music,3291,Medium,5443314,354,2,2022,Q1,West
+2022-02-09,Gujarat,Kankaria Carnival,Folk Dance,5948,High,9142076,485,2,2022,Q1,West
+2022-02-10,Gujarat,International Kite Festival,Handicrafts,3039,Medium,5196690,364,2,2022,Q1,West
+2022-02-26,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5028,High,5455380,586,2,2022,Q1,Central
+2022-02-14,Madhya Pradesh,Jal Mahotsav,Handicrafts,2334,Medium,3799752,254,2,2022,Q1,Central
+2022-02-19,Haryana,Surajkund Mela,Handicrafts,4735,High,8707665,562,2,2022,Q1,North
+2022-02-23,Arunachal Pradesh,Orange Festival,Folk Dance,3500,Medium,5575500,384,2,2022,Q1,North East
+2022-02-20,Chandigarh,Rose Festival,Folk Dance,2934,Medium,5850396,272,2,2022,Q1,North
+2022-02-10,Bihar,Rajgir Mahotsav,Traditional Music,2614,Medium,3325008,277,2,2022,Q1,East
+2022-02-24,Chhattisgarh,Bastar Dussehra,Folk Dance,5042,High,8162998,427,2,2022,Q1,Central
+2022-02-02,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,2130,Medium,3842520,215,2,2022,Q1,North
+2022-11-26,Odisha,Konark Dance Festival,Classical Dance,2182,Medium,4324724,180,11,2022,Q4,East
+2022-11-15,Nagaland,Hornbill Festival,Folk Dance,5959,High,8914664,605,11,2022,Q4,North East
+2022-11-22,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,2920,Medium,4076320,306,11,2022,Q4,North East
+2022-11-16,Rajasthan,Bundi Utsav,Traditional Music,2492,Medium,3551100,286,11,2022,Q4,West
+2022-11-02,Gujarat,Kankaria Carnival,Folk Dance,2310,Medium,4014780,265,11,2022,Q4,West
+2022-11-27,Gujarat,International Kite Festival,Handicrafts,2758,Medium,4909240,278,11,2022,Q4,West
+2022-11-03,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,3914,Medium,4062732,314,11,2022,Q4,Central
+2022-11-17,Madhya Pradesh,Jal Mahotsav,Handicrafts,2476,Medium,3260892,245,11,2022,Q4,Central
+2022-11-25,Haryana,Surajkund Mela,Handicrafts,2271,Medium,3267969,206,11,2022,Q4,North
+2022-11-25,Arunachal Pradesh,Orange Festival,Folk Dance,2265,Medium,4360125,219,11,2022,Q4,North East
+2022-11-07,Chandigarh,Rose Festival,Folk Dance,2339,Medium,3246532,255,11,2022,Q4,North
+2022-11-17,Bihar,Rajgir Mahotsav,Traditional Music,4050,High,5783400,381,11,2022,Q4,East
+2022-11-18,Chhattisgarh,Bastar Dussehra,Folk Dance,4371,High,5004795,390,11,2022,Q4,Central
+2022-11-25,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,2431,Medium,4142424,283,11,2022,Q4,North
+2022-12-15,Odisha,Konark Dance Festival,Classical Dance,4632,High,6475536,441,12,2022,Q4,East
+2022-12-24,Nagaland,Hornbill Festival,Folk Dance,2963,Medium,3374857,350,12,2022,Q4,North East
+2022-12-05,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4108,High,8199568,343,12,2022,Q4,North East
+2022-12-06,Rajasthan,Bundi Utsav,Traditional Music,2806,Medium,4037834,323,12,2022,Q4,West
+2022-12-24,Gujarat,Kankaria Carnival,Folk Dance,2010,Medium,2132610,210,12,2022,Q4,West
+2022-12-25,Gujarat,International Kite Festival,Handicrafts,5782,High,9037266,477,12,2022,Q4,West
+2022-12-08,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5731,High,10659660,607,12,2022,Q4,Central
+2022-12-21,Madhya Pradesh,Jal Mahotsav,Handicrafts,5314,High,7928488,450,12,2022,Q4,Central
+2022-12-11,Haryana,Surajkund Mela,Handicrafts,2225,Medium,4058400,197,12,2022,Q4,North
+2022-12-17,Arunachal Pradesh,Orange Festival,Folk Dance,4553,High,5727674,514,12,2022,Q4,North East
+2022-12-05,Chandigarh,Rose Festival,Folk Dance,3796,Medium,3997188,450,12,2022,Q4,North
+2022-12-17,Bihar,Rajgir Mahotsav,Traditional Music,3544,Medium,3891312,368,12,2022,Q4,East
+2022-12-17,Chhattisgarh,Bastar Dussehra,Folk Dance,3596,Medium,6796440,344,12,2022,Q4,Central
+2022-12-18,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,2849,Medium,3022789,341,12,2022,Q4,North
+2023-01-03,Odisha,Konark Dance Festival,Classical Dance,8255,High,14347190,734,1,2023,Q1,East
+2023-01-24,Nagaland,Hornbill Festival,Folk Dance,4892,High,5322496,507,1,2023,Q1,North East
+2023-01-14,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,5380,High,8656420,528,1,2023,Q1,North East
+2023-01-24,Rajasthan,Bundi Utsav,Traditional Music,6682,High,13277134,661,1,2023,Q1,West
+2023-01-03,Gujarat,Kankaria Carnival,Folk Dance,5355,High,6259995,601,1,2023,Q1,West
+2023-01-08,Gujarat,International Kite Festival,Handicrafts,5560,High,7005600,608,1,2023,Q1,West
+2023-01-02,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,4983,High,5595909,472,1,2023,Q1,Central
+2023-01-08,Madhya Pradesh,Jal Mahotsav,Handicrafts,7972,High,9367100,795,1,2023,Q1,Central
+2023-01-06,Haryana,Surajkund Mela,Handicrafts,4036,High,5307340,340,1,2023,Q1,North
+2023-01-05,Arunachal Pradesh,Orange Festival,Folk Dance,8688,High,9669744,867,1,2023,Q1,North East
+2023-01-19,Chandigarh,Rose Festival,Folk Dance,6745,High,8916890,633,1,2023,Q1,North
+2023-01-02,Bihar,Rajgir Mahotsav,Traditional Music,7930,High,15637960,719,1,2023,Q1,East
+2023-01-06,Chhattisgarh,Bastar Dussehra,Folk Dance,8311,High,9524406,953,1,2023,Q1,Central
+2023-01-01,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,5704,High,10153120,647,1,2023,Q1,North
+2023-02-25,Odisha,Konark Dance Festival,Classical Dance,5716,High,6682004,481,2,2023,Q1,East
+2023-02-27,Nagaland,Hornbill Festival,Folk Dance,6469,High,10990831,558,2,2023,Q1,North East
+2023-02-11,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4556,High,8314700,449,2,2023,Q1,North East
+2023-02-23,Rajasthan,Bundi Utsav,Traditional Music,8521,High,11869753,961,2,2023,Q1,West
+2023-02-21,Gujarat,Kankaria Carnival,Folk Dance,7741,High,11998550,669,2,2023,Q1,West
+2023-02-04,Gujarat,International Kite Festival,Handicrafts,7329,High,12583893,808,2,2023,Q1,West
+2023-02-12,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,4294,High,8420534,392,2,2023,Q1,Central
+2023-02-14,Madhya Pradesh,Jal Mahotsav,Handicrafts,5690,High,6327280,582,2,2023,Q1,Central
+2023-02-08,Haryana,Surajkund Mela,Handicrafts,8795,High,12726365,893,2,2023,Q1,North
+2023-02-03,Arunachal Pradesh,Orange Festival,Folk Dance,5007,High,6634275,457,2,2023,Q1,North East
+2023-02-07,Chandigarh,Rose Festival,Folk Dance,8681,High,10694992,1028,2,2023,Q1,North
+2023-02-15,Bihar,Rajgir Mahotsav,Traditional Music,5245,High,5433820,441,2,2023,Q1,East
+2023-02-04,Chhattisgarh,Bastar Dussehra,Folk Dance,5887,High,8730421,486,2,2023,Q1,Central
+2023-02-27,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,5040,High,7675920,416,2,2023,Q1,North
+2023-11-10,Odisha,Konark Dance Festival,Classical Dance,4885,High,8324040,402,11,2023,Q4,East
+2023-11-24,Nagaland,Hornbill Festival,Folk Dance,6353,High,8061957,755,11,2023,Q4,North East
+2023-11-12,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7747,High,13650214,660,11,2023,Q4,North East
+2023-11-12,Rajasthan,Bundi Utsav,Traditional Music,4028,High,7677368,454,11,2023,Q4,West
+2023-11-15,Gujarat,Kankaria Carnival,Folk Dance,7999,High,15566054,720,11,2023,Q4,West
+2023-11-23,Gujarat,International Kite Festival,Handicrafts,7609,High,11268929,692,11,2023,Q4,West
+2023-11-04,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,4038,High,5128260,451,11,2023,Q4,Central
+2023-11-11,Madhya Pradesh,Jal Mahotsav,Handicrafts,5823,High,6574167,645,11,2023,Q4,Central
+2023-11-20,Haryana,Surajkund Mela,Handicrafts,7093,High,10341594,644,11,2023,Q4,North
+2023-11-17,Arunachal Pradesh,Orange Festival,Folk Dance,7453,High,13020391,605,11,2023,Q4,North East
+2023-11-21,Chandigarh,Rose Festival,Folk Dance,8964,High,17515656,1062,11,2023,Q4,North
+2023-11-19,Bihar,Rajgir Mahotsav,Traditional Music,8665,High,16385515,944,11,2023,Q4,East
+2023-11-02,Chhattisgarh,Bastar Dussehra,Folk Dance,5980,High,6948760,485,11,2023,Q4,Central
+2023-11-25,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,4791,High,7296693,491,11,2023,Q4,North
+2023-12-12,Odisha,Konark Dance Festival,Classical Dance,6255,High,9620190,742,12,2023,Q4,East
+2023-12-14,Nagaland,Hornbill Festival,Folk Dance,4984,High,8253504,416,12,2023,Q4,North East
+2023-12-08,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,4590,High,4709340,522,12,2023,Q4,North East
+2023-12-20,Rajasthan,Bundi Utsav,Traditional Music,8444,High,16541796,774,12,2023,Q4,West
+2023-12-24,Gujarat,Kankaria Carnival,Folk Dance,7899,High,10876923,826,12,2023,Q4,West
+2023-12-14,Gujarat,International Kite Festival,Handicrafts,4526,High,5213952,362,12,2023,Q4,West
+2023-12-07,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,7344,High,13902192,788,12,2023,Q4,Central
+2023-12-04,Madhya Pradesh,Jal Mahotsav,Handicrafts,4520,High,7580040,402,12,2023,Q4,Central
+2023-12-22,Haryana,Surajkund Mela,Handicrafts,4116,High,5700660,460,12,2023,Q4,North
+2023-12-11,Arunachal Pradesh,Orange Festival,Folk Dance,7788,High,13395360,626,12,2023,Q4,North East
+2023-12-18,Chandigarh,Rose Festival,Folk Dance,6013,High,7931147,576,12,2023,Q4,North
+2023-12-15,Bihar,Rajgir Mahotsav,Traditional Music,8702,High,10137830,797,12,2023,Q4,East
+2023-12-13,Chhattisgarh,Bastar Dussehra,Folk Dance,4728,High,8510400,558,12,2023,Q4,Central
+2023-12-09,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,4778,High,5795714,525,12,2023,Q4,North
+2024-01-09,Odisha,Konark Dance Festival,Classical Dance,7448,High,11819976,889,1,2024,Q1,East
+2024-01-15,Nagaland,Hornbill Festival,Folk Dance,5591,High,7318619,585,1,2024,Q1,North East
+2024-01-20,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7720,High,13224360,857,1,2024,Q1,North East
+2024-01-18,Rajasthan,Bundi Utsav,Traditional Music,5001,High,6121224,417,1,2024,Q1,West
+2024-01-13,Gujarat,Kankaria Carnival,Folk Dance,6949,High,13397672,785,1,2024,Q1,West
+2024-01-26,Gujarat,International Kite Festival,Handicrafts,5917,High,6520534,504,1,2024,Q1,West
+2024-01-07,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5089,High,8574965,548,1,2024,Q1,Central
+2024-01-15,Madhya Pradesh,Jal Mahotsav,Handicrafts,8041,High,8885305,697,1,2024,Q1,Central
+2024-01-17,Haryana,Surajkund Mela,Handicrafts,6895,High,13583150,585,1,2024,Q1,North
+2024-01-27,Arunachal Pradesh,Orange Festival,Folk Dance,6925,High,6980400,813,1,2024,Q1,North East
+2024-01-07,Chandigarh,Rose Festival,Folk Dance,7270,High,10287050,668,1,2024,Q1,North
+2024-01-12,Bihar,Rajgir Mahotsav,Traditional Music,8911,High,15050679,935,1,2024,Q1,East
+2024-01-20,Chhattisgarh,Bastar Dussehra,Folk Dance,9206,High,11507500,914,1,2024,Q1,Central
+2024-01-11,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,5207,High,9888093,541,1,2024,Q1,North
+2024-02-22,Odisha,Konark Dance Festival,Classical Dance,5409,High,10244646,571,2,2024,Q1,East
+2024-02-09,Nagaland,Hornbill Festival,Folk Dance,9969,High,10098597,830,2,2024,Q1,North East
+2024-02-22,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7134,High,10865082,616,2,2024,Q1,North East
+2024-02-13,Rajasthan,Bundi Utsav,Traditional Music,6266,High,7024186,583,2,2024,Q1,West
+2024-02-14,Gujarat,Kankaria Carnival,Folk Dance,8427,High,14191068,735,2,2024,Q1,West
+2024-02-23,Gujarat,International Kite Festival,Handicrafts,7356,High,12461064,601,2,2024,Q1,West
+2024-02-12,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,8665,High,17026725,942,2,2024,Q1,Central
+2024-02-22,Madhya Pradesh,Jal Mahotsav,Handicrafts,9644,High,13029044,980,2,2024,Q1,Central
+2024-02-27,Haryana,Surajkund Mela,Handicrafts,7971,High,13654323,766,2,2024,Q1,North
+2024-02-22,Arunachal Pradesh,Orange Festival,Folk Dance,5352,High,10179504,527,2,2024,Q1,North East
+2024-02-21,Chandigarh,Rose Festival,Folk Dance,5158,High,10073574,565,2,2024,Q1,North
+2024-02-20,Bihar,Rajgir Mahotsav,Traditional Music,9611,High,16636641,911,2,2024,Q1,East
+2024-02-20,Chhattisgarh,Bastar Dussehra,Folk Dance,5955,High,6854205,605,2,2024,Q1,Central
+2024-02-19,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,9703,High,15680048,946,2,2024,Q1,North
+2024-11-21,Odisha,Konark Dance Festival,Classical Dance,8811,High,13894947,915,11,2024,Q4,East
+2024-11-04,Nagaland,Hornbill Festival,Folk Dance,6797,High,8795318,619,11,2024,Q4,North East
+2024-11-19,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,9281,High,11554845,875,11,2024,Q4,North East
+2024-11-03,Rajasthan,Bundi Utsav,Traditional Music,5529,High,8575479,627,11,2024,Q4,West
+2024-11-01,Gujarat,Kankaria Carnival,Folk Dance,7914,High,14189802,859,11,2024,Q4,West
+2024-11-16,Gujarat,International Kite Festival,Handicrafts,9573,High,15297654,1008,11,2024,Q4,West
+2024-11-14,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,5001,High,6871374,482,11,2024,Q4,Central
+2024-11-06,Madhya Pradesh,Jal Mahotsav,Handicrafts,8052,High,12496704,723,11,2024,Q4,Central
+2024-11-15,Haryana,Surajkund Mela,Handicrafts,5013,High,7534539,517,11,2024,Q4,North
+2024-11-20,Arunachal Pradesh,Orange Festival,Folk Dance,5129,High,8934718,443,11,2024,Q4,North East
+2024-11-27,Chandigarh,Rose Festival,Folk Dance,8928,High,9169056,806,11,2024,Q4,North
+2024-11-05,Bihar,Rajgir Mahotsav,Traditional Music,9356,High,13547488,1037,11,2024,Q4,East
+2024-11-24,Chhattisgarh,Bastar Dussehra,Folk Dance,9396,High,18021528,922,11,2024,Q4,Central
+2024-11-11,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,8081,High,13786186,789,11,2024,Q4,North
+2024-12-16,Odisha,Konark Dance Festival,Classical Dance,6993,High,11216772,653,12,2024,Q4,East
+2024-12-09,Nagaland,Hornbill Festival,Folk Dance,6280,High,7108960,564,12,2024,Q4,North East
+2024-12-11,Meghalaya,Shillong Cherry Blossom Festival,Folk Dance,7360,High,11592000,694,12,2024,Q4,North East
+2024-12-25,Rajasthan,Bundi Utsav,Traditional Music,8178,High,15799896,770,12,2024,Q4,West
+2024-12-12,Gujarat,Kankaria Carnival,Folk Dance,7212,High,9404448,820,12,2024,Q4,West
+2024-12-12,Gujarat,International Kite Festival,Handicrafts,7203,High,9839298,826,12,2024,Q4,West
+2024-12-12,Madhya Pradesh,Khajuraho Dance Festival,Classical Dance,6274,High,12271944,510,12,2024,Q4,Central
+2024-12-14,Madhya Pradesh,Jal Mahotsav,Handicrafts,5968,High,9011680,532,12,2024,Q4,Central
+2024-12-26,Haryana,Surajkund Mela,Handicrafts,7844,High,7844000,665,12,2024,Q4,North
+2024-12-06,Arunachal Pradesh,Orange Festival,Folk Dance,7532,High,13226192,629,12,2024,Q4,North East
+2024-12-01,Chandigarh,Rose Festival,Folk Dance,6008,High,10153520,490,12,2024,Q4,North
+2024-12-10,Bihar,Rajgir Mahotsav,Traditional Music,5275,High,8925300,523,12,2024,Q4,East
+2024-12-27,Chhattisgarh,Bastar Dussehra,Folk Dance,5125,High,10214125,476,12,2024,Q4,Central
+2024-12-25,Uttar Pradesh,Maha Kumbh Mela,Traditional Music,8249,High,15821582,879,12,2024,Q4,North
