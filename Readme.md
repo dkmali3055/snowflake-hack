@@ -44,7 +44,6 @@ This dashboard provides comprehensive analysis of cultural tourism in India, fea
    - Key tourism insights
    - Economic impact analysis
    - Actionable recommendations
-   - Focus areas for development
 
 ### 🎨 Interactive Features
 
@@ -59,24 +58,9 @@ This dashboard provides comprehensive analysis of cultural tourism in India, fea
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Plotly, Altair
 - **Forecasting**: Prophet (Facebook's time series forecasting tool)
-- **Database**: Snowflake (optional)
+- **Database**: Snowflake
 - **Environment**: Python 3.8+
 
-## 📁 Project Structure
-
-```
-cultural-tourism-app/
-├── app.py                 # Main Streamlit application
-├── data/
-│   └── dummy_data.csv     # Sample cultural tourism data
-├── .env                   # Environment configuration
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
-└── utils/
-    ├── data_loader.py    # Data loading utilities
-    ├── forecasting.py    # Prophet forecasting functions
-    └── visualizations.py # Custom visualization functions
-```
 
 ## 🚀 Quick Start
 
@@ -204,13 +188,6 @@ The application uses Facebook's Prophet for time series forecasting:
 - **Impact Assessment**: Measure cultural and economic impact
 - **Grant Applications**: Provide data-driven justifications
 
-### For Researchers
-
-- **Cultural Studies**: Analyze trends in traditional arts
-- **Tourism Research**: Study visitor behavior patterns
-- **Economic Analysis**: Assess tourism's economic contribution
-- **Policy Development**: Inform cultural tourism policies
-
 ## 🌟 Advanced Features
 
 ### Machine Learning Integration
@@ -226,28 +203,6 @@ The application uses Facebook's Prophet for time series forecasting:
 - **Real-time Updates**: Live data streaming capabilities
 - **Multi-format Support**: CSV, Excel, JSON, API data
 - **Cloud Storage**: Integration with cloud databases
-
-## 🔧 Configuration
-
-### Environment Variables
-
-```env
-# Application Settings
-APP_TITLE=Cultural Tourism Dashboard - India
-APP_DESCRIPTION=Interactive dashboard for cultural tourism analysis
-
-# Data Configuration
-DATA_SOURCE=local  # Options: local, snowflake, api
-CSV_FILE_PATH=data/dummy_data.csv
-
-# Forecasting Settings
-DEFAULT_FORECAST_DAYS=180
-MIN_DATA_POINTS=30
-
-# UI Settings
-THEME=light
-COLOR_PALETTE=orange
-```
 
 ### Customization Options
 
@@ -289,22 +244,6 @@ EXPOSE 8501
 CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
 ```
 
-#### Heroku Deployment
-
-1. Create `Procfile`:
-```
-web: sh setup.sh && streamlit run app.py
-```
-
-2. Create `setup.sh`:
-```bash
-mkdir -p ~/.streamlit/
-echo "[server]
-port = $PORT
-enableCORS = false
-headless = true
-" > ~/.streamlit/config.toml
-```
 
 ## 🤝 Contributing
 
@@ -324,14 +263,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - **Streamlit**: For the amazing web app framework
 - **Government of India**: For providing open cultural tourism data
 - **Indian Cultural Organizations**: For preserving and promoting traditional arts
-
-## 📞 Support
-
-For support and questions:
-
-- 📧 Email: support@cultural-tourism-dashboard.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/cultural-tourism-app/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-username/cultural-tourism-app/wiki)
 
 ## 🚀 Future Enhancements
 
